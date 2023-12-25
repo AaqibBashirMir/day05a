@@ -1,0 +1,20 @@
+.body{
+    height: auto;
+    width: 100%;
+    
+    /* border: 1px solid red; */
+    background: linear-gradient(pink,orange);
+}
+#para{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 2% 5%;
+    color: white;
+    box-shadow: 0 0 5px gray;
+    background: linear-gradient(black,rgb(49, 49, 110));
+    padding: 10px 20px;
+    border-radius: 8px;
+    line-height: 1.6em;
+    
+
+}
